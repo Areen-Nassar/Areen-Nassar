@@ -1,8 +1,7 @@
 ---
 layout: home
-title: "Areen Nassar"
+title: "Dr. Areen Nassar"
 permalink: /
-author_profile: true
 hero:
   image: images/Background.jpg
   height: 100vh
